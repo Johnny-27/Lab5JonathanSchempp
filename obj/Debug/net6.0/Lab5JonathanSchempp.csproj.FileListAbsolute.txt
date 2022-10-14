@@ -1,0 +1,15 @@
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.csproj.AssemblyReference.cache
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.AssemblyInfoInputs.cache
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.AssemblyInfo.cs
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.csproj.CoreCompileInputs.cache
+C:\source\depos\Lab5JonathanSchempp\bin\Debug\net6.0\Lab5JonathanSchempp.exe
+C:\source\depos\Lab5JonathanSchempp\bin\Debug\net6.0\Lab5JonathanSchempp.deps.json
+C:\source\depos\Lab5JonathanSchempp\bin\Debug\net6.0\Lab5JonathanSchempp.runtimeconfig.json
+C:\source\depos\Lab5JonathanSchempp\bin\Debug\net6.0\Lab5JonathanSchempp.dll
+C:\source\depos\Lab5JonathanSchempp\bin\Debug\net6.0\Lab5JonathanSchempp.pdb
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.dll
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\refint\Lab5JonathanSchempp.dll
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.pdb
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\Lab5JonathanSchempp.genruntimeconfig.cache
+C:\source\depos\Lab5JonathanSchempp\obj\Debug\net6.0\ref\Lab5JonathanSchempp.dll
